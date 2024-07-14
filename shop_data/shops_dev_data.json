@@ -1,0 +1,1936 @@
+[
+  {
+    "name": "Vue Cinema Leeds - The Light",
+    "opening_hours": [
+      "Monday: 10:00 AM – 3:00 AM",
+      "Tuesday: 10:00 AM – 3:00 AM",
+      "Wednesday: 10:00 AM – 3:00 AM",
+      "Thursday: 10:00 AM – 3:00 AM",
+      "Friday: 10:00 AM – 3:00 AM",
+      "Saturday: 10:00 AM – 3:00 AM",
+      "Sunday: 10:00 AM – 3:00 AM"
+    ],
+    "lat": 53.79976169999999,
+    "lng": -1.5457255
+  },
+  {
+    "name": "Forbidden Planet International",
+    "opening_hours": [
+      "Monday: 9:30 AM – 6:00 PM",
+      "Tuesday: 9:30 AM – 6:00 PM",
+      "Wednesday: 9:30 AM – 6:00 PM",
+      "Thursday: 10:00 AM – 6:00 PM",
+      "Friday: 9:30 AM – 6:00 PM",
+      "Saturday: 9:30 AM – 6:30 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.7991821,
+    "lng": -1.5403808
+  },
+  {
+    "name": "WHSmith",
+    "opening_hours": [
+      "Monday: 9:00 AM – 6:00 PM",
+      "Tuesday: 9:00 AM – 6:00 PM",
+      "Wednesday: 9:00 AM – 6:00 PM",
+      "Thursday: 9:00 AM – 6:00 PM",
+      "Friday: 9:00 AM – 6:00 PM",
+      "Saturday: 9:00 AM – 6:00 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.7976879,
+    "lng": -1.5439129
+  },
+  {
+    "name": "Mail Boxes Etc. Leeds",
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.8006846,
+    "lng": -1.550617
+  },
+  {
+    "name": "TK Maxx",
+    "opening_hours": [
+      "Monday: 9:00 AM – 9:00 PM",
+      "Tuesday: 9:00 AM – 9:00 PM",
+      "Wednesday: 9:00 AM – 9:00 PM",
+      "Thursday: 9:00 AM – 9:00 PM",
+      "Friday: 9:00 AM – 9:00 PM",
+      "Saturday: 9:00 AM – 9:00 PM",
+      "Sunday: 11:30 AM – 5:30 PM"
+    ],
+    "lat": 53.7995264,
+    "lng": -1.5431704
+  },
+  {
+    "name": "Charles Clinkard Leeds",
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:30 PM",
+      "Tuesday: 9:00 AM – 5:30 PM",
+      "Wednesday: 9:00 AM – 5:30 PM",
+      "Thursday: 9:00 AM – 5:30 PM",
+      "Friday: 9:00 AM – 5:30 PM",
+      "Saturday: 9:00 AM – 5:30 PM",
+      "Sunday: 11:00 AM – 4:00 PM"
+    ],
+    "lat": 53.7985875,
+    "lng": -1.5430253
+  },
+  {
+    "name": "The Works",
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:30 PM",
+      "Tuesday: 9:00 AM – 5:30 PM",
+      "Wednesday: 9:00 AM – 5:30 PM",
+      "Thursday: 9:00 AM – 5:30 PM",
+      "Friday: 9:00 AM – 5:30 PM",
+      "Saturday: 9:00 AM – 5:30 PM",
+      "Sunday: 10:00 AM – 4:00 PM"
+    ],
+    "lat": 53.80099999999999,
+    "lng": -1.543942
+  },
+  {
+    "name": "Waterstones",
+    "opening_hours": [
+      "Monday: 9:00 AM – 6:30 PM",
+      "Tuesday: 9:00 AM – 6:30 PM",
+      "Wednesday: 9:00 AM – 6:30 PM",
+      "Thursday: 9:00 AM – 6:30 PM",
+      "Friday: 9:00 AM – 6:30 PM",
+      "Saturday: 9:00 AM – 6:30 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.7989124,
+    "lng": -1.5451897
+  },
+  {
+    "name": "Specsavers Opticians and Audiologists - Leeds",
+    "opening_hours": [
+      "Monday: 8:00 AM – 7:30 PM",
+      "Tuesday: 8:00 AM – 7:30 PM",
+      "Wednesday: 8:00 AM – 7:30 PM",
+      "Thursday: 8:00 AM – 7:30 PM",
+      "Friday: 8:00 AM – 7:30 PM",
+      "Saturday: 9:00 AM – 6:00 PM",
+      "Sunday: 9:00 AM – 5:00 PM"
+    ],
+    "lat": 53.79858360000001,
+    "lng": -1.5448783
+  },
+  {
+    "name": "Boots",
+    "opening_hours": [
+      "Monday: 9:30 AM – 5:30 PM",
+      "Tuesday: 9:30 AM – 5:30 PM",
+      "Wednesday: 9:30 AM – 5:30 PM",
+      "Thursday: 9:30 AM – 5:30 PM",
+      "Friday: 9:30 AM – 5:30 PM",
+      "Saturday: 9:00 AM – 2:00 PM",
+      "Sunday: Closed"
+    ],
+    "lat": 53.8021702,
+    "lng": -1.5442346
+  },
+  {
+    "name": "Superdrug",
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:30 PM",
+      "Tuesday: 8:00 AM – 5:30 PM",
+      "Wednesday: 8:00 AM – 5:30 PM",
+      "Thursday: 8:00 AM – 5:30 PM",
+      "Friday: 8:00 AM – 5:30 PM",
+      "Saturday: 8:00 AM – 5:30 PM",
+      "Sunday: 10:30 AM – 4:30 PM"
+    ],
+    "lat": 53.80161899999999,
+    "lng": -1.5444268
+  },
+  {
+    "name": "Berry's Jewellers",
+    "opening_hours": [
+      "Monday: 9:30 AM – 5:00 PM",
+      "Tuesday: 9:30 AM – 5:00 PM",
+      "Wednesday: 9:30 AM – 5:00 PM",
+      "Thursday: 9:30 AM – 5:00 PM",
+      "Friday: 9:30 AM – 5:00 PM",
+      "Saturday: 9:30 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "lat": 53.7979707,
+    "lng": -1.5449505
+  },
+  {
+    "name": "Three",
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:30 PM",
+      "Tuesday: 9:00 AM – 5:30 PM",
+      "Wednesday: 9:30 AM – 5:30 PM",
+      "Thursday: 9:00 AM – 5:30 PM",
+      "Friday: 9:00 AM – 5:30 PM",
+      "Saturday: 9:00 AM – 5:30 PM",
+      "Sunday: 10:30 AM – 4:30 PM"
+    ],
+    "lat": 53.80140500000001,
+    "lng": -1.544623
+  },
+  {
+    "name": "Ultimate Skin Tattoo Shop",
+    "opening_hours": [
+      "Monday: 10:00 AM – 6:00 PM",
+      "Tuesday: 10:00 AM – 6:00 PM",
+      "Wednesday: 10:00 AM – 6:00 PM",
+      "Thursday: 10:00 AM – 6:00 PM",
+      "Friday: 10:00 AM – 6:00 PM",
+      "Saturday: 10:00 AM – 6:00 PM",
+      "Sunday: Closed"
+    ],
+    "lat": 53.80000219999999,
+    "lng": -1.5415714
+  },
+  {
+    "name": "Warren James Jewellers",
+    "opening_hours": [
+      "Monday: 9:15 AM – 5:30 PM",
+      "Tuesday: 9:15 AM – 5:30 PM",
+      "Wednesday: 9:15 AM – 5:30 PM",
+      "Thursday: 9:15 AM – 5:30 PM",
+      "Friday: 9:15 AM – 5:30 PM",
+      "Saturday: 9:15 AM – 5:30 PM",
+      "Sunday: 10:30 AM – 4:30 PM"
+    ],
+    "lat": 53.8006259,
+    "lng": -1.5440038
+  },
+  {
+    "name": "Poundland",
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:45 PM",
+      "Tuesday: 8:00 AM – 5:45 PM",
+      "Wednesday: 8:00 AM – 5:45 PM",
+      "Thursday: 8:00 AM – 5:45 PM",
+      "Friday: 8:00 AM – 5:45 PM",
+      "Saturday: 8:00 AM – 5:45 PM",
+      "Sunday: 10:30 AM – 4:30 PM"
+    ],
+    "lat": 53.8003777,
+    "lng": -1.5443544
+  },
+  {
+    "name": "OFFICE Leeds, Briggate",
+    "opening_hours": [
+      "Monday: 9:30 AM – 6:30 PM",
+      "Tuesday: 9:30 AM – 6:30 PM",
+      "Wednesday: 9:30 AM – 6:30 PM",
+      "Thursday: 9:30 AM – 6:30 PM",
+      "Friday: 9:30 AM – 6:30 PM",
+      "Saturday: 9:00 AM – 7:00 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.7983845,
+    "lng": -1.5422455
+  },
+  {
+    "name": "Richer Sounds, Leeds",
+    "opening_hours": [
+      "Monday: 12:00 – 5:00 PM",
+      "Tuesday: 12:00 – 5:00 PM",
+      "Wednesday: 12:00 – 5:00 PM",
+      "Thursday: 12:00 – 5:00 PM",
+      "Friday: 12:00 – 5:00 PM",
+      "Saturday: 10:00 AM – 5:00 PM",
+      "Sunday: 12:00 – 4:00 PM"
+    ],
+    "lat": 53.8007183,
+    "lng": -1.5397074
+  },
+  {
+    "name": "Grand Arcade",
+    "opening_hours": [
+      "Monday: 9:00 AM – 11:00 PM",
+      "Tuesday: 9:00 AM – 11:00 PM",
+      "Wednesday: 9:00 AM – 11:00 PM",
+      "Thursday: 9:00 AM – 11:00 PM",
+      "Friday: 9:00 AM – 11:00 PM",
+      "Saturday: 9:00 AM – 11:00 PM",
+      "Sunday: 9:00 AM – 11:00 PM"
+    ],
+    "lat": 53.8003429,
+    "lng": -1.5409194
+  },
+  {
+    "name": "Cotswold Outdoor Leeds",
+    "opening_hours": [
+      "Monday: 9:00 AM – 6:00 PM",
+      "Tuesday: 9:00 AM – 6:00 PM",
+      "Wednesday: 9:00 AM – 6:00 PM",
+      "Thursday: 9:00 AM – 6:00 PM",
+      "Friday: 9:00 AM – 6:00 PM",
+      "Saturday: 9:00 AM – 6:00 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.7979502,
+    "lng": -1.5434467
+  },
+  {
+    "name": "Forbidden Planet International",
+    "opening_hours": [
+      "Monday: 9:30 AM – 6:00 PM",
+      "Tuesday: 9:30 AM – 6:00 PM",
+      "Wednesday: 9:30 AM – 6:00 PM",
+      "Thursday: 10:00 AM – 6:00 PM",
+      "Friday: 9:30 AM – 6:00 PM",
+      "Saturday: 9:30 AM – 6:30 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.7991821,
+    "lng": -1.5403808
+  },
+  {
+    "name": "WHSmith",
+    "opening_hours": [
+      "Monday: 9:00 AM – 6:00 PM",
+      "Tuesday: 9:00 AM – 6:00 PM",
+      "Wednesday: 9:00 AM – 6:00 PM",
+      "Thursday: 9:00 AM – 6:00 PM",
+      "Friday: 9:00 AM – 6:00 PM",
+      "Saturday: 9:00 AM – 6:00 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.7976879,
+    "lng": -1.5439129
+  },
+  {
+    "name": "BEST",
+    "opening_hours": [
+      "Monday: 11:00 AM – 6:00 PM",
+      "Tuesday: 11:00 AM – 6:00 PM",
+      "Wednesday: 11:00 AM – 6:00 PM",
+      "Thursday: 11:00 AM – 6:00 PM",
+      "Friday: 11:00 AM – 6:00 PM",
+      "Saturday: 11:00 AM – 6:00 PM",
+      "Sunday: 12:00 – 5:00 PM"
+    ],
+    "lat": 53.7962201,
+    "lng": -1.5410552
+  },
+  {
+    "name": "Swarovski",
+    "opening_hours": [
+      "Monday: 9:00 AM – 6:00 PM",
+      "Tuesday: 9:00 AM – 6:00 PM",
+      "Wednesday: 9:00 AM – 6:00 PM",
+      "Thursday: 9:00 AM – 6:00 PM",
+      "Friday: 9:00 AM – 6:00 PM",
+      "Saturday: 9:00 AM – 6:00 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.79639019999999,
+    "lng": -1.5434119
+  },
+  {
+    "name": "BOSS Store",
+    "opening_hours": [
+      "Monday: 9:30 AM – 6:30 PM",
+      "Tuesday: 9:30 AM – 6:30 PM",
+      "Wednesday: 9:30 AM – 6:30 PM",
+      "Thursday: 9:30 AM – 6:30 PM",
+      "Friday: 9:30 AM – 6:30 PM",
+      "Saturday: 9:30 AM – 6:30 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.7985399,
+    "lng": -1.5401976
+  },
+  {
+    "name": "Warhammer",
+    "opening_hours": [
+      "Monday: 10:00 AM – 6:00 PM",
+      "Tuesday: 10:00 AM – 6:00 PM",
+      "Wednesday: 10:00 AM – 6:00 PM",
+      "Thursday: 10:00 AM – 7:00 PM",
+      "Friday: 10:00 AM – 6:00 PM",
+      "Saturday: 10:00 AM – 6:00 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.7958358,
+    "lng": -1.5422953
+  },
+  {
+    "name": "Molton Brown Leeds",
+    "opening_hours": [
+      "Monday: 10:00 AM – 6:00 PM",
+      "Tuesday: 10:00 AM – 6:00 PM",
+      "Wednesday: 10:00 AM – 6:00 PM",
+      "Thursday: 10:00 AM – 6:00 PM",
+      "Friday: 10:00 AM – 6:00 PM",
+      "Saturday: 10:00 AM – 6:00 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.7980828,
+    "lng": -1.5412855
+  },
+  {
+    "name": "Marks and Spencer",
+    "opening_hours": [
+      "Monday: 8:00 AM – 8:00 PM",
+      "Tuesday: 8:00 AM – 8:00 PM",
+      "Wednesday: 8:00 AM – 8:00 PM",
+      "Thursday: 8:00 AM – 8:00 PM",
+      "Friday: 8:00 AM – 8:00 PM",
+      "Saturday: 8:00 AM – 7:00 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.79696329999999,
+    "lng": -1.542786
+  },
+  {
+    "name": "Apple Trinity Leeds",
+    "opening_hours": [
+      "Monday: 9:00 AM – 8:00 PM",
+      "Tuesday: 9:00 AM – 8:00 PM",
+      "Wednesday: 9:00 AM – 8:00 PM",
+      "Thursday: 9:00 AM – 8:00 PM",
+      "Friday: 9:00 AM – 8:00 PM",
+      "Saturday: 9:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.79671099999999,
+    "lng": -1.543848
+  },
+  {
+    "name": "Leeds Playhouse Costume Hire",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: Closed",
+      "Friday: Closed",
+      "Saturday: 10:00 AM – 4:00 PM",
+      "Sunday: Closed"
+    ],
+    "lat": 53.7970891,
+    "lng": -1.5335651
+  },
+  {
+    "name": "Simply Pleasure",
+    "opening_hours": [
+      "Monday: 10:00 AM – 8:00 PM",
+      "Tuesday: 10:00 AM – 8:00 PM",
+      "Wednesday: 10:00 AM – 8:00 PM",
+      "Thursday: 10:00 AM – 8:00 PM",
+      "Friday: 10:00 AM – 8:00 PM",
+      "Saturday: 10:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 4:00 PM"
+    ],
+    "lat": 53.7947608,
+    "lng": -1.5426913
+  },
+  {
+    "name": "JD Sports",
+    "opening_hours": [
+      "Monday: 9:00 AM – 8:00 PM",
+      "Tuesday: 9:00 AM – 8:00 PM",
+      "Wednesday: 9:00 AM – 8:00 PM",
+      "Thursday: 9:00 AM – 8:00 PM",
+      "Friday: 9:00 AM – 8:00 PM",
+      "Saturday: 9:00 AM – 8:00 PM",
+      "Sunday: 10:00 AM – 6:00 PM"
+    ],
+    "lat": 53.79689,
+    "lng": -1.5428047
+  },
+  {
+    "name": "OFFICE Leeds, Briggate",
+    "opening_hours": [
+      "Monday: 9:30 AM – 6:30 PM",
+      "Tuesday: 9:30 AM – 6:30 PM",
+      "Wednesday: 9:30 AM – 6:30 PM",
+      "Thursday: 9:30 AM – 6:30 PM",
+      "Friday: 9:30 AM – 6:30 PM",
+      "Saturday: 9:00 AM – 7:00 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.7983845,
+    "lng": -1.5422455
+  },
+  {
+    "name": "Charles Clinkard Leeds",
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:30 PM",
+      "Tuesday: 9:00 AM – 5:30 PM",
+      "Wednesday: 9:00 AM – 5:30 PM",
+      "Thursday: 9:00 AM – 5:30 PM",
+      "Friday: 9:00 AM – 5:30 PM",
+      "Saturday: 9:00 AM – 5:30 PM",
+      "Sunday: 11:00 AM – 4:00 PM"
+    ],
+    "lat": 53.7985875,
+    "lng": -1.5430253
+  },
+  {
+    "name": "Beaverbrooks",
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:30 PM",
+      "Tuesday: 9:00 AM – 5:30 PM",
+      "Wednesday: 9:00 AM – 5:30 PM",
+      "Thursday: 9:00 AM – 5:30 PM",
+      "Friday: 9:00 AM – 5:30 PM",
+      "Saturday: 9:30 AM – 5:30 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.79747580000001,
+    "lng": -1.5435292
+  },
+  {
+    "name": "Superdrug",
+    "opening_hours": [
+      "Monday: 8:30 AM – 6:00 PM",
+      "Tuesday: 8:30 AM – 6:00 PM",
+      "Wednesday: 8:30 AM – 6:00 PM",
+      "Thursday: 8:30 AM – 6:00 PM",
+      "Friday: 8:30 AM – 6:00 PM",
+      "Saturday: 8:30 AM – 6:00 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.7972549,
+    "lng": -1.5411055
+  },
+  {
+    "name": "Cotswold Outdoor Leeds",
+    "opening_hours": [
+      "Monday: 9:00 AM – 6:00 PM",
+      "Tuesday: 9:00 AM – 6:00 PM",
+      "Wednesday: 9:00 AM – 6:00 PM",
+      "Thursday: 9:00 AM – 6:00 PM",
+      "Friday: 9:00 AM – 6:00 PM",
+      "Saturday: 9:00 AM – 6:00 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.7979502,
+    "lng": -1.5434467
+  },
+  {
+    "name": "Lush Spa Leeds",
+    "opening_hours": [
+      "Monday: 9:00 AM – 6:30 PM",
+      "Tuesday: 9:00 AM – 6:30 PM",
+      "Wednesday: 9:00 AM – 6:30 PM",
+      "Thursday: 9:00 AM – 6:30 PM",
+      "Friday: 9:00 AM – 6:30 PM",
+      "Saturday: 9:00 AM – 6:30 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.79748619999999,
+    "lng": -1.5439021
+  },
+  {
+    "name": "REISS",
+    "opening_hours": [
+      "Monday: 10:00 AM – 6:00 PM",
+      "Tuesday: 10:00 AM – 6:00 PM",
+      "Wednesday: 10:00 AM – 6:00 PM",
+      "Thursday: 10:00 AM – 6:00 PM",
+      "Friday: 10:00 AM – 6:00 PM",
+      "Saturday: 10:00 AM – 6:00 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.7985005,
+    "lng": -1.5408998
+  },
+  {
+    "name": "Leeds PDSA Charity Shop",
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: 9:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "lat": 53.79670590000001,
+    "lng": -1.5410444
+  },
+  {
+    "name": "WHSmith",
+    "opening_hours": [
+      "Monday: 6:00 AM – 9:00 PM",
+      "Tuesday: 6:00 AM – 9:00 PM",
+      "Wednesday: 6:00 AM – 9:00 PM",
+      "Thursday: 6:00 AM – 9:00 PM",
+      "Friday: 6:00 AM – 9:00 PM",
+      "Saturday: 7:00 AM – 9:00 PM",
+      "Sunday: 8:00 AM – 8:00 PM"
+    ],
+    "lat": 53.7946964,
+    "lng": -1.5474871
+  },
+  {
+    "name": "Swarovski",
+    "opening_hours": [
+      "Monday: 9:00 AM – 6:00 PM",
+      "Tuesday: 9:00 AM – 6:00 PM",
+      "Wednesday: 9:00 AM – 6:00 PM",
+      "Thursday: 9:00 AM – 6:00 PM",
+      "Friday: 9:00 AM – 6:00 PM",
+      "Saturday: 9:00 AM – 6:00 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.79639019999999,
+    "lng": -1.5434119
+  },
+  {
+    "name": "BEST",
+    "opening_hours": [
+      "Monday: 11:00 AM – 6:00 PM",
+      "Tuesday: 11:00 AM – 6:00 PM",
+      "Wednesday: 11:00 AM – 6:00 PM",
+      "Thursday: 11:00 AM – 6:00 PM",
+      "Friday: 11:00 AM – 6:00 PM",
+      "Saturday: 11:00 AM – 6:00 PM",
+      "Sunday: 12:00 – 5:00 PM"
+    ],
+    "lat": 53.7962201,
+    "lng": -1.5410552
+  },
+  {
+    "name": "WHSmith",
+    "opening_hours": [
+      "Monday: 9:00 AM – 6:00 PM",
+      "Tuesday: 9:00 AM – 6:00 PM",
+      "Wednesday: 9:00 AM – 6:00 PM",
+      "Thursday: 9:00 AM – 6:00 PM",
+      "Friday: 9:00 AM – 6:00 PM",
+      "Saturday: 9:00 AM – 6:00 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.7976879,
+    "lng": -1.5439129
+  },
+  {
+    "name": "Warhammer",
+    "opening_hours": [
+      "Monday: 10:00 AM – 6:00 PM",
+      "Tuesday: 10:00 AM – 6:00 PM",
+      "Wednesday: 10:00 AM – 6:00 PM",
+      "Thursday: 10:00 AM – 7:00 PM",
+      "Friday: 10:00 AM – 6:00 PM",
+      "Saturday: 10:00 AM – 6:00 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.7958358,
+    "lng": -1.5422953
+  },
+  {
+    "name": "Simply Pleasure",
+    "opening_hours": [
+      "Monday: 10:00 AM – 8:00 PM",
+      "Tuesday: 10:00 AM – 8:00 PM",
+      "Wednesday: 10:00 AM – 8:00 PM",
+      "Thursday: 10:00 AM – 8:00 PM",
+      "Friday: 10:00 AM – 8:00 PM",
+      "Saturday: 10:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 4:00 PM"
+    ],
+    "lat": 53.7947608,
+    "lng": -1.5426913
+  },
+  {
+    "name": "Apple Trinity Leeds",
+    "opening_hours": [
+      "Monday: 9:00 AM – 8:00 PM",
+      "Tuesday: 9:00 AM – 8:00 PM",
+      "Wednesday: 9:00 AM – 8:00 PM",
+      "Thursday: 9:00 AM – 8:00 PM",
+      "Friday: 9:00 AM – 8:00 PM",
+      "Saturday: 9:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.79671099999999,
+    "lng": -1.543848
+  },
+  {
+    "name": "Marks and Spencer",
+    "opening_hours": [
+      "Monday: 8:00 AM – 8:00 PM",
+      "Tuesday: 8:00 AM – 8:00 PM",
+      "Wednesday: 8:00 AM – 8:00 PM",
+      "Thursday: 8:00 AM – 8:00 PM",
+      "Friday: 8:00 AM – 8:00 PM",
+      "Saturday: 8:00 AM – 7:00 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.79696329999999,
+    "lng": -1.542786
+  },
+  {
+    "name": "Laynes",
+    "opening_hours": [
+      "Monday: 7:30 AM – 3:00 PM",
+      "Tuesday: 7:30 AM – 3:00 PM",
+      "Wednesday: 7:30 AM – 3:00 PM",
+      "Thursday: 7:30 AM – 3:00 PM",
+      "Friday: 7:30 AM – 3:00 PM",
+      "Saturday: 8:00 AM – 6:00 PM",
+      "Sunday: 9:00 AM – 4:00 PM"
+    ],
+    "lat": 53.7953066,
+    "lng": -1.5450751
+  },
+  {
+    "name": "Boots",
+    "opening_hours": [
+      "Monday: 8:00 AM – 8:00 PM",
+      "Tuesday: 8:00 AM – 8:00 PM",
+      "Wednesday: 8:00 AM – 8:00 PM",
+      "Thursday: 8:00 AM – 8:00 PM",
+      "Friday: 8:00 AM – 8:00 PM",
+      "Saturday: 8:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.7973431,
+    "lng": -1.5454352
+  },
+  {
+    "name": "Vision Express Opticians - Leeds - Trinity",
+    "opening_hours": [
+      "Monday: 9:00 AM – 6:00 PM",
+      "Tuesday: 9:00 AM – 6:00 PM",
+      "Wednesday: 9:00 AM – 6:00 PM",
+      "Thursday: 9:00 AM – 6:00 PM",
+      "Friday: 9:00 AM – 6:00 PM",
+      "Saturday: 9:00 AM – 6:00 PM",
+      "Sunday: 10:00 AM – 5:00 PM"
+    ],
+    "lat": 53.7968007,
+    "lng": -1.5444979
+  },
+  {
+    "name": "JD Sports",
+    "opening_hours": [
+      "Monday: 9:00 AM – 8:00 PM",
+      "Tuesday: 9:00 AM – 8:00 PM",
+      "Wednesday: 9:00 AM – 8:00 PM",
+      "Thursday: 9:00 AM – 8:00 PM",
+      "Friday: 9:00 AM – 8:00 PM",
+      "Saturday: 9:00 AM – 8:00 PM",
+      "Sunday: 10:00 AM – 6:00 PM"
+    ],
+    "lat": 53.79689,
+    "lng": -1.5428047
+  },
+  {
+    "name": "Next",
+    "opening_hours": [
+      "Monday: 9:00 AM – 8:00 PM",
+      "Tuesday: 9:00 AM – 8:00 PM",
+      "Wednesday: 9:00 AM – 8:00 PM",
+      "Thursday: 9:00 AM – 8:00 PM",
+      "Friday: 9:00 AM – 8:00 PM",
+      "Saturday: 9:00 AM – 7:00 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.79634040000001,
+    "lng": -1.5445557
+  },
+  {
+    "name": "Lush Spa Leeds",
+    "opening_hours": [
+      "Monday: 9:00 AM – 6:30 PM",
+      "Tuesday: 9:00 AM – 6:30 PM",
+      "Wednesday: 9:00 AM – 6:30 PM",
+      "Thursday: 9:00 AM – 6:30 PM",
+      "Friday: 9:00 AM – 6:30 PM",
+      "Saturday: 9:00 AM – 6:30 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.79748619999999,
+    "lng": -1.5439021
+  },
+  {
+    "name": "Superdry",
+    "opening_hours": [
+      "Monday: 9:00 AM – 8:00 PM",
+      "Tuesday: 9:00 AM – 8:00 PM",
+      "Wednesday: 9:00 AM – 8:00 PM",
+      "Thursday: 9:00 AM – 8:00 PM",
+      "Friday: 9:00 AM – 8:00 PM",
+      "Saturday: 9:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.7965086,
+    "lng": -1.5447288
+  },
+  {
+    "name": "Friends of Ham",
+    "opening_hours": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 11:00 AM – 12:00 AM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "lat": 53.7954418,
+    "lng": -1.545051
+  },
+  {
+    "name": "The LEGO® Store Leeds",
+    "opening_hours": [
+      "Monday: 9:00 AM – 8:00 PM",
+      "Tuesday: 9:00 AM – 8:00 PM",
+      "Wednesday: 9:00 AM – 8:00 PM",
+      "Thursday: 9:00 AM – 8:00 PM",
+      "Friday: 9:00 AM – 8:00 PM",
+      "Saturday: 9:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.796615,
+    "lng": -1.5442187
+  },
+  {
+    "name": "Beaverbrooks",
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:30 PM",
+      "Tuesday: 9:00 AM – 5:30 PM",
+      "Wednesday: 9:00 AM – 5:30 PM",
+      "Thursday: 9:00 AM – 5:30 PM",
+      "Friday: 9:00 AM – 5:30 PM",
+      "Saturday: 9:30 AM – 5:30 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.79747580000001,
+    "lng": -1.5435292
+  },
+  {
+    "name": "Leeds PDSA Charity Shop",
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: 9:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "lat": 53.79670590000001,
+    "lng": -1.5410444
+  },
+  {
+    "name": "Marks and Spencer Simply Food",
+    "opening_hours": [
+      "Monday: 6:00 AM – 10:00 PM",
+      "Tuesday: 6:00 AM – 10:00 PM",
+      "Wednesday: 6:00 AM – 11:00 PM",
+      "Thursday: 6:00 AM – 11:00 PM",
+      "Friday: 6:00 AM – 11:00 PM",
+      "Saturday: 7:00 AM – 11:00 PM",
+      "Sunday: 7:30 AM – 11:00 PM"
+    ],
+    "lat": 53.7949039,
+    "lng": -1.5470194
+  },
+  {
+    "name": "Venus Supermarket",
+    "opening_hours": [
+      "Monday: 9:00 AM – 9:00 PM",
+      "Tuesday: 9:00 AM – 9:00 PM",
+      "Wednesday: 9:00 AM – 9:00 PM",
+      "Thursday: 9:00 AM – 9:00 PM",
+      "Friday: 9:00 AM – 9:00 PM",
+      "Saturday: 9:00 AM – 9:00 PM",
+      "Sunday: 9:00 AM – 9:00 PM"
+    ],
+    "lat": 53.7866503,
+    "lng": -1.5607981
+  },
+  {
+    "name": "Holbeck Post Office",
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:30 PM",
+      "Tuesday: 8:00 AM – 5:30 PM",
+      "Wednesday: 8:00 AM – 5:30 PM",
+      "Thursday: 8:00 AM – 5:30 PM",
+      "Friday: 8:00 AM – 5:30 PM",
+      "Saturday: 8:30 AM – 12:30 PM",
+      "Sunday: Closed"
+    ],
+    "lat": 53.7855588,
+    "lng": -1.5601146
+  },
+  {
+    "name": "KD Carpets",
+    "opening_hours": [
+      "Monday: 8:30 AM – 5:30 PM",
+      "Tuesday: 8:30 AM – 5:30 PM",
+      "Wednesday: 8:30 AM – 5:30 PM",
+      "Thursday: 8:30 AM – 5:30 PM",
+      "Friday: 8:30 AM – 5:30 PM",
+      "Saturday: 9:00 AM – 5:00 PM",
+      "Sunday: 10:00 AM – 4:00 PM"
+    ],
+    "lat": 53.78622029999999,
+    "lng": -1.5612715
+  },
+  {
+    "name": "Stantondown Ltd",
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 3:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.7854292,
+    "lng": -1.5614887
+  },
+  {
+    "name": "Left Hand Drive Leeds",
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: 9:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "lat": 53.7847496,
+    "lng": -1.5536034
+  },
+  {
+    "name": "Discount Windscreen Services",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "lat": 53.7903747,
+    "lng": -1.5576384
+  },
+  {
+    "name": "OTE Sports Ltd",
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:30 PM",
+      "Tuesday: 8:00 AM – 4:30 PM",
+      "Wednesday: 8:00 AM – 4:30 PM",
+      "Thursday: 8:00 AM – 4:30 PM",
+      "Friday: 8:00 AM – 4:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.79040320000001,
+    "lng": -1.5593725
+  },
+  {
+    "name": "OTE Performance Centre",
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.7905095,
+    "lng": -1.5593711
+  },
+  {
+    "name": "CarSynergy-UK",
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: 9:00 AM – 1:00 PM",
+      "Sunday: Closed"
+    ],
+    "lat": 53.7854317,
+    "lng": -1.5516589
+  },
+  {
+    "name": "Grace & Tailor",
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:30 PM",
+      "Tuesday: 9:00 AM – 5:30 PM",
+      "Wednesday: 9:00 AM – 5:30 PM",
+      "Thursday: 9:00 AM – 5:30 PM",
+      "Friday: 9:00 AM – 5:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.7888451,
+    "lng": -1.5516543
+  },
+  {
+    "name": "Prestige Salvage (Leeds) Limited",
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.7911382,
+    "lng": -1.5560201
+  },
+  {
+    "name": "Northern Monk Refectory",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 9:00 PM"
+    ],
+    "lat": 53.7907522,
+    "lng": -1.5541416
+  },
+  {
+    "name": "CHAMPION TYRES UK",
+    "opening_hours": [
+      "Monday: 9:00 AM – 6:00 PM",
+      "Tuesday: 9:00 AM – 6:00 PM",
+      "Wednesday: 9:00 AM – 6:00 PM",
+      "Thursday: 9:00 AM – 6:00 PM",
+      "Friday: 9:00 AM – 6:00 PM",
+      "Saturday: 9:00 AM – 5:00 PM",
+      "Sunday: 10:00 AM – 5:00 PM"
+    ],
+    "lat": 53.7895646,
+    "lng": -1.5622191
+  },
+  {
+    "name": "Besbrode Pianos Piano Showroom",
+    "opening_hours": [
+      "Monday: 10:00 AM – 4:00 PM",
+      "Tuesday: 10:00 AM – 4:00 PM",
+      "Wednesday: 10:00 AM – 4:00 PM",
+      "Thursday: Closed",
+      "Friday: 10:00 AM – 4:00 PM",
+      "Saturday: 10:00 AM – 4:00 PM",
+      "Sunday: Closed"
+    ],
+    "lat": 53.7899719,
+    "lng": -1.5617848
+  },
+  {
+    "name": "Ace Art Tattoo Studio",
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: 9:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "lat": 53.786093,
+    "lng": -1.560685
+  },
+  {
+    "name": "Sewell Of Leeds Ltd",
+    "opening_hours": [
+      "Monday: 8:30 AM – 5:00 PM",
+      "Tuesday: 8:30 AM – 5:00 PM",
+      "Wednesday: 8:30 AM – 5:00 PM",
+      "Thursday: 8:30 AM – 5:00 PM",
+      "Friday: 8:30 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.7873128,
+    "lng": -1.5522341
+  },
+  {
+    "name": "Strasse (UK) LTD",
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:30 AM – 12:00 PM",
+      "Sunday: Closed"
+    ],
+    "lat": 53.78906560000001,
+    "lng": -1.5589775
+  },
+  {
+    "name": "Regional Paints Ltd",
+    "opening_hours": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 2:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.7872789,
+    "lng": -1.5522177
+  },
+  {
+    "name": "Cohens Chemist",
+    "opening_hours": [
+      "Monday: 9:00 AM – 6:00 PM",
+      "Tuesday: 9:00 AM – 6:00 PM",
+      "Wednesday: 9:00 AM – 1:00 PM",
+      "Thursday: 9:00 AM – 6:00 PM",
+      "Friday: 9:00 AM – 6:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.7850881,
+    "lng": -1.5602142
+  },
+  {
+    "name": "Old Chapel Music Studios",
+    "opening_hours": [
+      "Monday: 11:00 AM – 11:30 PM",
+      "Tuesday: 11:00 AM – 11:30 PM",
+      "Wednesday: 11:00 AM – 11:30 PM",
+      "Thursday: 11:00 AM – 11:30 PM",
+      "Friday: 11:00 AM – 11:30 PM",
+      "Saturday: 12:00 – 6:00 PM",
+      "Sunday: 12:00 – 6:00 PM"
+    ],
+    "lat": 53.7885203,
+    "lng": -1.5594153
+  },
+  {
+    "name": "Hobbycraft Leeds",
+    "opening_hours": [
+      "Monday: 9:00 AM – 8:00 PM",
+      "Tuesday: 9:00 AM – 8:00 PM",
+      "Wednesday: 9:00 AM – 8:00 PM",
+      "Thursday: 9:00 AM – 8:00 PM",
+      "Friday: 9:00 AM – 8:00 PM",
+      "Saturday: 9:00 AM – 6:00 PM",
+      "Sunday: 10:00 AM – 4:00 PM"
+    ],
+    "lat": 53.78751370000001,
+    "lng": -1.5412119
+  },
+  {
+    "name": "Startright Motorcycles",
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:30 PM",
+      "Tuesday: 9:00 AM – 5:30 PM",
+      "Wednesday: 9:00 AM – 5:30 PM",
+      "Thursday: 9:00 AM – 5:30 PM",
+      "Friday: 9:00 AM – 5:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.7873424,
+    "lng": -1.5350461
+  },
+  {
+    "name": "Asda Living Leeds",
+    "opening_hours": [
+      "Monday: 9:00 AM – 8:00 PM",
+      "Tuesday: 9:00 AM – 8:00 PM",
+      "Wednesday: 9:00 AM – 8:00 PM",
+      "Thursday: 9:00 AM – 8:00 PM",
+      "Friday: 9:00 AM – 8:00 PM",
+      "Saturday: 9:00 AM – 7:00 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.7884785,
+    "lng": -1.5415288
+  },
+  {
+    "name": "Costa Coffee",
+    "opening_hours": [
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 6:00 PM",
+      "Sunday: 9:00 AM – 5:00 PM"
+    ],
+    "lat": 53.7871986,
+    "lng": -1.5410716
+  },
+  {
+    "name": "Uni-Seat UK Ltd",
+    "opening_hours": [
+      "Monday: 7:30 AM – 4:30 PM",
+      "Tuesday: 7:30 AM – 4:30 PM",
+      "Wednesday: 7:30 AM – 4:30 PM",
+      "Thursday: 7:30 AM – 4:30 PM",
+      "Friday: 7:30 AM – 4:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.78579420000001,
+    "lng": -1.538564
+  },
+  {
+    "name": "IPC Fixings",
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.7876199,
+    "lng": -1.5375146
+  },
+  {
+    "name": "Carpet Co Ltd",
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: 9:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "lat": 53.7862205,
+    "lng": -1.5385799
+  },
+  {
+    "name": "Vantage Motorhomes",
+    "opening_hours": [
+      "Monday: 8:30 AM – 4:30 PM",
+      "Tuesday: 8:30 AM – 4:30 PM",
+      "Wednesday: 8:30 AM – 4:30 PM",
+      "Thursday: 8:30 AM – 4:30 PM",
+      "Friday: 8:30 AM – 4:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.78587339999999,
+    "lng": -1.5310332
+  },
+  {
+    "name": "Cougar Signs Ltd",
+    "opening_hours": [
+      "Monday: 8:30 AM – 5:00 PM",
+      "Tuesday: 8:30 AM – 5:00 PM",
+      "Wednesday: 8:30 AM – 5:00 PM",
+      "Thursday: 8:30 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.78551119999999,
+    "lng": -1.5389235
+  },
+  {
+    "name": "Cardfactory",
+    "opening_hours": [
+      "Monday: 8:30 AM – 8:00 PM",
+      "Tuesday: 8:30 AM – 8:00 PM",
+      "Wednesday: 8:30 AM – 8:00 PM",
+      "Thursday: 8:30 AM – 8:00 PM",
+      "Friday: 8:30 AM – 8:00 PM",
+      "Saturday: 8:30 AM – 7:00 PM",
+      "Sunday: 10:00 AM – 5:00 PM"
+    ],
+    "lat": 53.7877763,
+    "lng": -1.5396078
+  },
+  {
+    "name": "Specsavers Opticians and Audiologists - Leeds - Crown Point",
+    "opening_hours": [
+      "Monday: 9:00 AM – 8:00 PM",
+      "Tuesday: 9:00 AM – 8:00 PM",
+      "Wednesday: 9:00 AM – 8:00 PM",
+      "Thursday: 9:00 AM – 8:00 PM",
+      "Friday: 9:00 AM – 8:00 PM",
+      "Saturday: 9:00 AM – 6:00 PM",
+      "Sunday: 9:00 AM – 5:00 PM"
+    ],
+    "lat": 53.7880456,
+    "lng": -1.5396129
+  },
+  {
+    "name": "M G Smith Commercial Vehicle Repairs",
+    "opening_hours": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 7:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 7:00 AM – 12:00 PM",
+      "Sunday: Closed"
+    ],
+    "lat": 53.7838341,
+    "lng": -1.5356577
+  },
+  {
+    "name": "Nike Factory Store Leeds Crown Point",
+    "opening_hours": [
+      "Monday: 9:00 AM – 7:00 PM",
+      "Tuesday: 9:00 AM – 7:00 PM",
+      "Wednesday: 9:00 AM – 7:00 PM",
+      "Thursday: 9:00 AM – 7:00 PM",
+      "Friday: 9:00 AM – 7:00 PM",
+      "Saturday: 9:00 AM – 6:00 PM",
+      "Sunday: 10:30 AM – 4:30 PM"
+    ],
+    "lat": 53.7883983,
+    "lng": -1.5396499
+  },
+  {
+    "name": "Poundland",
+    "opening_hours": [
+      "Monday: 8:30 AM – 8:00 PM",
+      "Tuesday: 8:30 AM – 8:00 PM",
+      "Wednesday: 8:30 AM – 8:00 PM",
+      "Thursday: 8:30 AM – 8:00 PM",
+      "Friday: 8:30 AM – 8:00 PM",
+      "Saturday: 8:30 AM – 7:00 PM",
+      "Sunday: 10:30 AM – 4:30 PM"
+    ],
+    "lat": 53.7884629,
+    "lng": -1.5398373
+  },
+  {
+    "name": "Wren Kitchens Leeds",
+    "opening_hours": [
+      "Monday: 9:00 AM – 8:00 PM",
+      "Tuesday: 9:00 AM – 8:00 PM",
+      "Wednesday: 9:00 AM – 8:00 PM",
+      "Thursday: 9:00 AM – 8:00 PM",
+      "Friday: 9:00 AM – 8:00 PM",
+      "Saturday: 9:00 AM – 6:00 PM",
+      "Sunday: 10:30 AM – 5:00 PM"
+    ],
+    "lat": 53.7877421,
+    "lng": -1.5414174
+  },
+  {
+    "name": "Next Outlet",
+    "opening_hours": [
+      "Monday: 9:00 AM – 7:30 PM",
+      "Tuesday: 9:00 AM – 7:30 PM",
+      "Wednesday: 9:00 AM – 7:30 PM",
+      "Thursday: 9:00 AM – 7:30 PM",
+      "Friday: 9:00 AM – 7:30 PM",
+      "Saturday: 9:00 AM – 6:30 PM",
+      "Sunday: 10:30 AM – 4:30 PM"
+    ],
+    "lat": 53.7881647,
+    "lng": -1.5413956
+  },
+  {
+    "name": "Medasil Surgical Limited",
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 2:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.7895952,
+    "lng": -1.5381379
+  },
+  {
+    "name": "Sports Direct",
+    "opening_hours": [
+      "Monday: 9:30 AM – 8:00 PM",
+      "Tuesday: 9:30 AM – 8:00 PM",
+      "Wednesday: 9:30 AM – 8:00 PM",
+      "Thursday: 9:30 AM – 8:00 PM",
+      "Friday: 9:30 AM – 8:00 PM",
+      "Saturday: 9:00 AM – 7:00 PM",
+      "Sunday: 11:00 AM – 5:00 PM"
+    ],
+    "lat": 53.788766,
+    "lng": -1.540525
+  },
+  {
+    "name": "Dressnimpress",
+    "opening_hours": [
+      "Monday: 9:30 AM – 5:30 PM",
+      "Tuesday: 9:30 AM – 5:30 PM",
+      "Wednesday: 9:30 AM – 5:30 PM",
+      "Thursday: 9:30 AM – 5:30 PM",
+      "Friday: 9:30 AM – 5:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.78346849999999,
+    "lng": -1.534462
+  },
+  {
+    "name": "Argos Leeds Crown Point",
+    "opening_hours": [
+      "Monday: 9:00 AM – 8:00 PM",
+      "Tuesday: 9:00 AM – 8:00 PM",
+      "Wednesday: 9:00 AM – 8:00 PM",
+      "Thursday: 9:00 AM – 8:00 PM",
+      "Friday: 9:00 AM – 8:00 PM",
+      "Saturday: 9:00 AM – 7:00 PM",
+      "Sunday: 10:30 AM – 4:30 PM"
+    ],
+    "lat": 53.789474,
+    "lng": -1.539468
+  },
+  {
+    "name": "Royal Armouries Museum",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: 10:00 AM – 5:00 PM",
+      "Wednesday: 10:00 AM – 5:00 PM",
+      "Thursday: 10:00 AM – 5:00 PM",
+      "Friday: 10:00 AM – 5:00 PM",
+      "Saturday: 10:00 AM – 5:00 PM",
+      "Sunday: 10:00 AM – 5:00 PM"
+    ],
+    "lat": 53.7917894,
+    "lng": -1.5322334
+  },
+  {
+    "name": "Startright Motorcycles",
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:30 PM",
+      "Tuesday: 9:00 AM – 5:30 PM",
+      "Wednesday: 9:00 AM – 5:30 PM",
+      "Thursday: 9:00 AM – 5:30 PM",
+      "Friday: 9:00 AM – 5:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.7873424,
+    "lng": -1.5350461
+  },
+  {
+    "name": "Tesco Express",
+    "opening_hours": [
+      "Monday: 6:00 AM – 11:00 PM",
+      "Tuesday: 6:00 AM – 11:00 PM",
+      "Wednesday: 6:00 AM – 11:00 PM",
+      "Thursday: 6:00 AM – 11:00 PM",
+      "Friday: 6:00 AM – 11:00 PM",
+      "Saturday: 6:00 AM – 11:00 PM",
+      "Sunday: 6:00 AM – 11:00 PM"
+    ],
+    "lat": 53.7898697,
+    "lng": -1.5313791
+  },
+  {
+    "name": "POP Print & Design",
+    "opening_hours": [
+      "Monday: 9:00 AM – 4:00 PM",
+      "Tuesday: 9:00 AM – 4:00 PM",
+      "Wednesday: 9:00 AM – 4:00 PM",
+      "Thursday: 9:00 AM – 4:00 PM",
+      "Friday: 9:00 AM – 4:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.79063449999999,
+    "lng": -1.5338195
+  },
+  {
+    "name": "Vantage Motorhomes",
+    "opening_hours": [
+      "Monday: 8:30 AM – 4:30 PM",
+      "Tuesday: 8:30 AM – 4:30 PM",
+      "Wednesday: 8:30 AM – 4:30 PM",
+      "Thursday: 8:30 AM – 4:30 PM",
+      "Friday: 8:30 AM – 4:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.78587339999999,
+    "lng": -1.5310332
+  },
+  {
+    "name": "ESTHE.lab (Aesthetic & Beauty Clinic)",
+    "opening_hours": [
+      "Monday: 10:00 AM – 6:00 PM",
+      "Tuesday: 10:00 AM – 6:00 PM",
+      "Wednesday: 10:00 AM – 6:00 PM",
+      "Thursday: 10:00 AM – 6:00 PM",
+      "Friday: 10:00 AM – 6:00 PM",
+      "Saturday: 10:00 AM – 6:00 PM",
+      "Sunday: Closed"
+    ],
+    "lat": 53.7900712,
+    "lng": -1.523288
+  },
+  {
+    "name": "Aztec Signs",
+    "opening_hours": [
+      "Monday: 8:30 AM – 5:30 PM",
+      "Tuesday: 8:30 AM – 5:30 PM",
+      "Wednesday: 8:30 AM – 5:30 PM",
+      "Thursday: 8:30 AM – 5:30 PM",
+      "Friday: 8:30 AM – 5:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.7902538,
+    "lng": -1.5230757
+  },
+  {
+    "name": "Nova PrintFinishers",
+    "opening_hours": [
+      "Monday: 8:30 AM – 6:00 PM",
+      "Tuesday: 8:30 AM – 6:00 PM",
+      "Wednesday: 8:30 AM – 6:00 PM",
+      "Thursday: 8:30 AM – 6:00 PM",
+      "Friday: 8:30 AM – 6:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.78596679999999,
+    "lng": -1.5307544
+  },
+  {
+    "name": "ATS Euromaster Leeds Cross Green Ln",
+    "opening_hours": [
+      "Monday: 8:30 AM – 5:30 PM",
+      "Tuesday: 8:30 AM – 5:30 PM",
+      "Wednesday: 8:30 AM – 5:30 PM",
+      "Thursday: 8:30 AM – 5:30 PM",
+      "Friday: 8:30 AM – 5:30 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "lat": 53.791063,
+    "lng": -1.524471
+  },
+  {
+    "name": "Verallia UK Ltd",
+    "opening_hours": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "lat": 53.7867518,
+    "lng": -1.5287756
+  },
+  {
+    "name": "Ply-tek",
+    "opening_hours": [
+      "Monday: 7:00 AM – 6:00 PM",
+      "Tuesday: 7:00 AM – 6:00 PM",
+      "Wednesday: 7:00 AM – 6:00 PM",
+      "Thursday: 7:00 AM – 6:00 PM",
+      "Friday: 7:00 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 12:00 AM",
+      "Sunday: 8:00 AM – 12:00 AM"
+    ],
+    "lat": 53.7892962,
+    "lng": -1.530976
+  },
+  {
+    "name": "Coffee Synthesis",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 8:00 AM – 3:30 PM",
+      "Thursday: 8:00 AM – 3:30 PM",
+      "Friday: 8:00 AM – 3:30 PM",
+      "Saturday: 9:00 AM – 4:30 PM",
+      "Sunday: 9:00 AM – 4:30 PM"
+    ],
+    "lat": 53.7908724,
+    "lng": -1.5291457
+  },
+  {
+    "name": "bed4us, bed sofa and mattress warehouse",
+    "opening_hours": [
+      "Monday: 9:30 AM – 5:00 PM",
+      "Tuesday: 9:30 AM – 5:00 PM",
+      "Wednesday: 9:30 AM – 5:00 PM",
+      "Thursday: 9:30 AM – 5:00 PM",
+      "Friday: 9:30 AM – 5:00 PM",
+      "Saturday: 9:30 AM – 5:00 PM",
+      "Sunday: 9:30 AM – 5:00 PM"
+    ],
+    "lat": 53.7890386,
+    "lng": -1.530784
+  },
+  {
+    "name": "Nova Bakehouse",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 8:00 AM – 1:30 PM",
+      "Friday: 8:00 AM – 1:30 PM",
+      "Saturday: 9:00 AM – 1:30 PM",
+      "Sunday: 9:00 AM – 1:30 PM"
+    ],
+    "lat": 53.79006520000001,
+    "lng": -1.5316812
+  },
+  {
+    "name": "North Star Coffee Shop",
+    "opening_hours": [
+      "Monday: 8:00 AM – 3:00 PM",
+      "Tuesday: 8:00 AM – 3:00 PM",
+      "Wednesday: 8:00 AM – 3:00 PM",
+      "Thursday: 8:00 AM – 3:00 PM",
+      "Friday: 8:00 AM – 3:00 PM",
+      "Saturday: 9:00 AM – 4:00 PM",
+      "Sunday: 9:00 AM – 4:00 PM"
+    ],
+    "lat": 53.7906218,
+    "lng": -1.5318192
+  },
+  { "name": "cozy corner", "lat": 53.7908062, "lng": -1.5318551 },
+  {
+    "name": "Hold Fast Bookshop",
+    "opening_hours": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 11:00 AM – 8:00 PM",
+      "Friday: 11:00 AM – 6:00 PM",
+      "Saturday: 10:00 AM – 5:00 PM",
+      "Sunday: 11:00 AM – 4:00 PM"
+    ],
+    "lat": 53.7910058,
+    "lng": -1.5333287
+  },
+  { "name": "Sweet Tooth Bakery", "lat": 53.7874199, "lng": -1.531379 },
+  {
+    "name": "Yorkshire Car Spares Ltd",
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:30 PM",
+      "Tuesday: 9:00 AM – 5:30 PM",
+      "Wednesday: 9:00 AM – 5:30 PM",
+      "Thursday: 9:00 AM – 5:30 PM",
+      "Friday: 9:00 AM – 5:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.7873758,
+    "lng": -1.5324353
+  },
+  {
+    "name": "MDM Motors Ltd",
+    "opening_hours": [
+      "Monday: 9:00 AM – 4:00 PM",
+      "Tuesday: 9:00 AM – 4:00 PM",
+      "Wednesday: 9:00 AM – 4:00 PM",
+      "Thursday: 9:00 AM – 4:00 PM",
+      "Friday: 9:00 AM – 4:00 PM",
+      "Saturday: 9:00 AM – 4:00 PM",
+      "Sunday: Closed"
+    ],
+    "lat": 53.7871002,
+    "lng": -1.5326634
+  },
+  {
+    "name": "Halfords Autocentre Leeds (Roseville)",
+    "opening_hours": [
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "lat": 53.8070128,
+    "lng": -1.5285004
+  },
+  {
+    "name": "Wilco Motosave",
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:30 PM",
+      "Tuesday: 9:00 AM – 5:30 PM",
+      "Wednesday: 9:00 AM – 5:30 PM",
+      "Thursday: 9:00 AM – 5:30 PM",
+      "Friday: 9:00 AM – 5:30 PM",
+      "Saturday: 9:00 AM – 5:00 PM",
+      "Sunday: 10:00 AM – 4:00 PM"
+    ],
+    "lat": 53.8089224,
+    "lng": -1.5270059
+  },
+  {
+    "name": "WATCHOUT UK LTD",
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.80811929999999,
+    "lng": -1.5299781
+  },
+  {
+    "name": "Kiddies World LTD",
+    "opening_hours": [
+      "Monday: 10:00 AM – 6:00 PM",
+      "Tuesday: 10:00 AM – 6:00 PM",
+      "Wednesday: 10:00 AM – 6:00 PM",
+      "Thursday: 10:00 AM – 6:00 PM",
+      "Friday: 10:00 AM – 6:00 PM",
+      "Saturday: Closed",
+      "Sunday: 10:00 AM – 1:00 PM"
+    ],
+    "lat": 53.808683,
+    "lng": -1.527664
+  },
+  {
+    "name": "Major Signs",
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:30 PM",
+      "Tuesday: 9:00 AM – 5:30 PM",
+      "Wednesday: 9:00 AM – 5:30 PM",
+      "Thursday: 9:00 AM – 5:30 PM",
+      "Friday: 9:00 AM – 5:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.80836439999999,
+    "lng": -1.527685
+  },
+  {
+    "name": "Super Fat Laces & Socks",
+    "opening_hours": [
+      "Monday: 10:00 AM – 5:00 PM",
+      "Tuesday: 10:00 AM – 5:00 PM",
+      "Wednesday: 10:00 AM – 5:00 PM",
+      "Thursday: 10:00 AM – 5:00 PM",
+      "Friday: 10:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.80684599999999,
+    "lng": -1.5262469
+  },
+  {
+    "name": "Harjeez",
+    "opening_hours": [
+      "Monday: 5:00 – 11:30 PM",
+      "Tuesday: 5:00 – 11:30 PM",
+      "Wednesday: 5:00 – 11:30 PM",
+      "Thursday: 5:00 – 11:30 PM",
+      "Friday: 5:00 PM – 12:00 AM",
+      "Saturday: 5:00 PM – 12:00 AM",
+      "Sunday: 5:00 – 11:30 PM"
+    ],
+    "lat": 53.80825730000001,
+    "lng": -1.5274791
+  },
+  {
+    "name": "Mr Flyer Ltd",
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.80735199999999,
+    "lng": -1.5289143
+  },
+  {
+    "name": "Best at Flooring",
+    "opening_hours": [
+      "Monday: 9:30 AM – 6:00 PM",
+      "Tuesday: 9:30 AM – 6:00 PM",
+      "Wednesday: 9:30 AM – 6:00 PM",
+      "Thursday: 9:30 AM – 6:00 PM",
+      "Friday: 9:30 AM – 6:00 PM",
+      "Saturday: 9:30 AM – 5:30 PM",
+      "Sunday: Closed"
+    ],
+    "lat": 53.80585670000001,
+    "lng": -1.5301279
+  },
+  {
+    "name": "Costa Coffee",
+    "opening_hours": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 7:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 9:00 AM – 6:00 PM",
+      "Sunday: Closed"
+    ],
+    "lat": 53.80777,
+    "lng": -1.52144
+  },
+  {
+    "name": "CM Performance - Garage Services And Remapping",
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:30 AM – 12:30 PM",
+      "Sunday: Closed"
+    ],
+    "lat": 53.80432080000001,
+    "lng": -1.5296081
+  },
+  {
+    "name": "Eurocell Leeds Collect",
+    "opening_hours": [
+      "Monday: 7:30 AM – 4:30 PM",
+      "Tuesday: 7:30 AM – 4:30 PM",
+      "Wednesday: 7:30 AM – 4:30 PM",
+      "Thursday: 7:30 AM – 4:30 PM",
+      "Friday: 7:30 AM – 4:30 PM",
+      "Saturday: 8:00 AM – 12:00 PM",
+      "Sunday: Closed"
+    ],
+    "lat": 53.8099302,
+    "lng": -1.5278954
+  },
+  {
+    "name": "Just Images",
+    "opening_hours": [
+      "Monday: 10:30 AM – 4:00 PM",
+      "Tuesday: 10:00 AM – 4:30 PM",
+      "Wednesday: 10:00 AM – 4:30 PM",
+      "Thursday: 10:00 AM – 5:00 PM",
+      "Friday: 10:30 AM – 2:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.80493899999999,
+    "lng": -1.531182
+  },
+  {
+    "name": "My Packaging",
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:20 PM",
+      "Tuesday: 9:00 AM – 5:20 PM",
+      "Wednesday: 9:00 AM – 5:20 PM",
+      "Thursday: 9:00 AM – 5:20 PM",
+      "Friday: 9:00 AM – 5:20 PM",
+      "Saturday: 9:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "lat": 53.809628,
+    "lng": -1.5286663
+  },
+  {
+    "name": "Phoenix Uniform Company",
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.8081892,
+    "lng": -1.5313792
+  },
+  {
+    "name": "Supa Saver",
+    "opening_hours": [
+      "Monday: 8:00 AM – 8:00 PM",
+      "Tuesday: 8:00 AM – 8:00 PM",
+      "Wednesday: 8:00 AM – 8:00 PM",
+      "Thursday: 8:00 AM – 8:00 PM",
+      "Friday: 8:00 AM – 8:00 PM",
+      "Saturday: 8:00 AM – 8:00 PM",
+      "Sunday: 9:30 AM – 8:00 PM"
+    ],
+    "lat": 53.8034303,
+    "lng": -1.5294641
+  },
+  {
+    "name": "Eleven Motorhomes",
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 3:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.8052739,
+    "lng": -1.5319946
+  },
+  {
+    "name": "Marks and Spencer",
+    "opening_hours": [
+      "Monday: 7:00 AM – 8:00 PM",
+      "Tuesday: 7:00 AM – 8:00 PM",
+      "Wednesday: 7:00 AM – 8:00 PM",
+      "Thursday: 7:00 AM – 8:00 PM",
+      "Friday: 7:00 AM – 8:00 PM",
+      "Saturday: 8:00 AM – 8:00 PM",
+      "Sunday: 8:00 AM – 8:00 PM"
+    ],
+    "lat": 53.8072274,
+    "lng": -1.5191972
+  },
+  {
+    "name": "Toor Carpets & Furnishing",
+    "opening_hours": [
+      "Monday: 9:00 AM – 6:30 PM",
+      "Tuesday: 9:00 AM – 6:30 PM",
+      "Wednesday: 9:00 AM – 6:30 PM",
+      "Thursday: 9:00 AM – 6:30 PM",
+      "Friday: 9:00 AM – 6:30 PM",
+      "Saturday: 9:00 AM – 6:30 PM",
+      "Sunday: Closed"
+    ],
+    "lat": 53.80780679999999,
+    "lng": -1.5285819
+  },
+  {
+    "name": "Heron Foods",
+    "opening_hours": [
+      "Monday: 8:00 AM – 8:00 PM",
+      "Tuesday: 8:00 AM – 8:00 PM",
+      "Wednesday: 8:00 AM – 8:00 PM",
+      "Thursday: 8:00 AM – 8:00 PM",
+      "Friday: 8:00 AM – 8:00 PM",
+      "Saturday: 8:00 AM – 8:00 PM",
+      "Sunday: 9:00 AM – 5:00 PM"
+    ],
+    "lat": 53.8024619,
+    "lng": -1.5246652
+  }
+]

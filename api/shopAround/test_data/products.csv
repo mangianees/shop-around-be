@@ -1,0 +1,11 @@
+product,description,brand,size,product_photo_url,category_id
+Apple,Fresh red apples,FreshFarms,1kg,https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,1
+Banana,Organic bananas,GreenEarth,1kg,https://plus.unsplash.com/premium_photo-1664527307725-362b589c406d?q=80&w=3774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,1
+Carrot,Crunchy carrots,VeggieDelight,1kg,https://plus.unsplash.com/premium_photo-1664527307650-7de397f25c79?q=80&w=3871&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,2
+Broccoli,Fresh broccoli,VeggieDelight,500g,https://cdn.pixabay.com/photo/2016/03/05/19/02/appetite-1238251_1280.jpg,2
+Milk,Whole milk,DairyPure,1L,https://cdn.pixabay.com/photo/2017/09/11/23/34/milk-bottle-2740848_1280.jpg,3
+Cheese,Cheddar cheese,DairyPure,200g,https://cdn.pixabay.com/photo/2018/06/08/23/30/cheese-3463368_960_720.jpg,3
+Orange Juice,Fresh orange juice,JuiceWorld,1L,https://cdn.pixabay.com/photo/2017/08/08/08/59/orange-2610760_1280.jpg,4
+Cola,Soft drink,ColaCo,1.5L,https://cdn.pixabay.com/photo/2015/05/29/22/17/coca-cola-789883_1280.jpg,4
+Chips,Potato chips,Snacky,200g,https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/347c2337863939.574ed68f8326f.jpg,5
+Cookies,Chocolate chip cookies,Snacky,300g,https://images.unsplash.com/photo-1558961363-fa8fdf82db35?q=80&w=3286&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,5

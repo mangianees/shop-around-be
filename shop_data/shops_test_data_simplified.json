@@ -1,0 +1,147 @@
+[
+    {
+      "name": "Best at Flooring",
+      "lat": 53.80585670000001,
+      "lng": -1.5301279,
+      "monday": "Monday: 9:30 AM – 6:00 PM",
+      "tuesday": "Tuesday: 9:30 AM – 6:00 PM",
+      "wednesday": "Wednesday: 9:30 AM – 6:00 PM",
+      "thursday": "Thursday: 9:30 AM – 6:00 PM",
+      "friday": "Friday: 9:30 AM – 6:00 PM",
+      "saturday": "Saturday: 9:30 AM – 5:30 PM",
+      "sunday": "Sunday: Closed"
+    },
+    {
+      "name": "Costa Coffee",
+      "lat": 53.80777,
+      "lng": -1.52144,
+      "monday": "Monday: 7:00 AM – 7:00 PM",
+      "tuesday": "Tuesday: 7:00 AM – 7:00 PM",
+      "wednesday": "Wednesday: 7:00 AM – 7:00 PM",
+      "thursday": "Thursday: 7:00 AM – 7:00 PM",
+      "friday": "Friday: 7:00 AM – 7:00 PM",
+      "saturday": "Saturday: 9:00 AM – 6:00 PM",
+      "sunday": "Sunday: Closed"
+    },
+    {
+      "name": "CM Performance - Garage Services And Remapping",
+      "lat": 53.80432080000001,
+      "lng": -1.5296081,
+      "monday": "Monday: 8:00 AM – 5:00 PM",
+      "tuesday": "Tuesday: 8:00 AM – 5:00 PM",
+      "wednesday": "Wednesday: 8:00 AM – 5:00 PM",
+      "thursday": "Thursday: 8:00 AM – 5:00 PM",
+      "friday": "Friday: 8:00 AM – 5:00 PM",
+      "saturday": "Saturday: 8:30 AM – 12:30 PM",
+      "sunday": "Sunday: Closed"
+    },
+    {
+      "name": "Eurocell Leeds Collect",
+      "lat": 53.8099302,
+      "lng": -1.5278954,
+      "monday": "Monday: 7:30 AM – 4:30 PM",
+      "tuesday": "Tuesday: 7:30 AM – 4:30 PM",
+      "wednesday": "Wednesday: 7:30 AM – 4:30 PM",
+      "thursday": "Thursday: 7:30 AM – 4:30 PM",
+      "friday": "Friday: 7:30 AM – 4:30 PM",
+      "saturday": "Saturday: 8:00 AM – 12:00 PM",
+      "sunday": "Sunday: Closed"
+    },
+    {
+      "name": "Just Images",
+      "lat": 53.80493899999999,
+      "lng": -1.531182,
+      "monday": "Monday: 10:30 AM – 4:00 PM",
+      "tuesday": "Tuesday: 10:00 AM – 4:30 PM",
+      "wednesday": "Wednesday: 10:00 AM – 4:30 PM",
+      "thursday": "Thursday: 10:00 AM – 5:00 PM",
+      "friday": "Friday: 10:30 AM – 2:30 PM",
+      "saturday": "Saturday: Closed",
+      "sunday": "Sunday: Closed"
+    },
+    {
+      "name": "My Packaging",
+      "lat": 53.809628,
+      "lng": -1.5286663,
+      "monday": "Monday: 9:00 AM – 5:20 PM",
+      "tuesday": "Tuesday: 9:00 AM – 5:20 PM",
+      "wednesday": "Wednesday: 9:00 AM – 5:20 PM",
+      "thursday": "Thursday: 9:00 AM – 5:20 PM",
+      "friday": "Friday: 9:00 AM – 5:20 PM",
+      "saturday": "Saturday: 9:00 AM – 5:00 PM",
+      "sunday": "Sunday: Closed"
+    },
+    {
+      "name": "Phoenix Uniform Company",
+      "lat": 53.8081892,
+      "lng": -1.5313792,
+      "monday": "Monday: 9:00 AM – 5:00 PM",
+      "tuesday": "Tuesday: 9:00 AM – 5:00 PM",
+      "wednesday": "Wednesday: 9:00 AM – 5:00 PM",
+      "thursday": "Thursday: 9:00 AM – 5:00 PM",
+      "friday": "Friday: 9:00 AM – 5:00 PM",
+      "saturday": "Saturday: Closed",
+      "sunday": "Sunday: Closed"
+    },
+    {
+      "name": "Supa Saver",
+      "lat": 53.8034303,
+      "lng": -1.5294641,
+      "monday": "Monday: 8:00 AM – 8:00 PM",
+      "tuesday": "Tuesday: 8:00 AM – 8:00 PM",
+      "wednesday": "Wednesday: 8:00 AM – 8:00 PM",
+      "thursday": "Thursday: 8:00 AM – 8:00 PM",
+      "friday": "Friday: 8:00 AM – 8:00 PM",
+      "saturday": "Saturday: 8:00 AM – 8:00 PM",
+      "sunday": "Sunday: 9:30 AM – 8:00 PM"
+    },
+    {
+      "name": "Eleven Motorhomes",
+      "lat": 53.8052739,
+      "lng": -1.5319946,
+      "monday": "Monday: 8:00 AM – 5:00 PM",
+      "tuesday": "Tuesday: 8:00 AM – 5:00 PM",
+      "wednesday": "Wednesday: 8:00 AM – 5:00 PM",
+      "thursday": "Thursday: 8:00 AM – 5:00 PM",
+      "friday": "Friday: 8:00 AM – 3:00 PM",
+      "saturday": "Saturday: Closed",
+      "sunday": "Sunday: Closed"
+    },
+    {
+      "name": "Marks and Spencer",
+      "lat": 53.8072274,
+      "lng": -1.5191972,
+      "monday": "Monday: 7:00 AM – 8:00 PM",
+      "tuesday": "Tuesday: 7:00 AM – 8:00 PM",
+      "wednesday": "Wednesday: 7:00 AM – 8:00 PM",
+      "thursday": "Thursday: 7:00 AM – 8:00 PM",
+      "friday": "Friday: 7:00 AM – 8:00 PM",
+      "saturday": "Saturday: 8:00 AM – 8:00 PM",
+      "sunday": "Sunday: 8:00 AM – 8:00 PM"
+    },
+    {
+      "name": "Toor Carpets & Furnishing",
+      "lat": 53.80780679999999,
+      "lng": -1.5285819,
+      "monday": "Monday: 9:00 AM – 6:30 PM",
+      "tuesday": "Tuesday: 9:00 AM – 6:30 PM",
+      "wednesday": "Wednesday: 9:00 AM – 6:30 PM",
+      "thursday": "Thursday: 9:00 AM – 6:30 PM",
+      "friday": "Friday: 9:00 AM – 6:30 PM",
+      "saturday": "Saturday: 9:00 AM – 6:30 PM",
+      "sunday": "Sunday: Closed"
+    },
+    {
+      "name": "Heron Foods",
+      "lat": 53.8024619,
+      "lng": -1.5246652,
+      "monday": "Monday: 8:00 AM – 8:00 PM",
+      "tuesday": "Tuesday: 8:00 AM – 8:00 PM",
+      "wednesday": "Wednesday: 8:00 AM – 8:00 PM",
+      "thursday": "Thursday: 8:00 AM – 8:00 PM",
+      "friday": "Friday: 8:00 AM – 8:00 PM",
+      "saturday": "Saturday: 8:00 AM – 8:00 PM",
+      "sunday": "Sunday: 9:00 AM – 5:00 PM"
+    }
+  ]
+  

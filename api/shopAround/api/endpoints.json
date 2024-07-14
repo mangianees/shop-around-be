@@ -1,0 +1,223 @@
+{
+  "GET /api": {
+    "description": "serves up a json representation of all the available endpoints of the api"
+  },
+  "GET api/price-report/<int:product_id>/<float:lat>/<float:lon>/<int:rad>/": {
+    "description": "serves up a json of stores which sell the product within a radius of a location and the latest reported price",
+    "example response": [
+      {
+        "price_id": 5,
+        "price": "10.00",
+        "store_id": 3,
+        "store_name": "WHSmith",
+        "latitude": "53.7976879000",
+        "longitude": "-1.5439129000",
+        "distance": 259.8866234
+      }
+    ]
+  },
+  "GET api/stores/<float:lat>/<float:lon>/": {
+    "description": "serves up a json of all stores within radius which defaults to 1000m",
+    "queries": ["rad"],
+    "example response": [
+      {
+        "store_id": 1,
+        "store_name": "Vue Cinema Leeds - The Light",
+        "lat": "53.7997617000",
+        "lon": "-1.5457255000",
+        "monday": "Monday: 10:00 AM – 3:00 AM",
+        "tuesday": "Tuesday: 10:00 AM – 3:00 AM",
+        "wednesday": "Wednesday: 10:00 AM – 3:00 AM",
+        "thursday": "Thursday: 10:00 AM – 3:00 AM",
+        "friday": "Friday: 10:00 AM – 3:00 AM",
+        "saturday": "Saturday: 10:00 AM – 3:00 AM",
+        "sunday": "Sunday: 10:00 AM – 3:00 AM",
+        "distance": 0.0
+      }
+    ]
+  },
+  "GET api/users/<int:user_id>/favourites/": {
+    "description": "serves up a json of a users favourite products",
+    "example response": [
+      {
+        "fav_product_id": 1,
+        "product_id": 1,
+        "product": "Apple",
+        "brand": "FreshFarms",
+        "size": "1kg",
+        "product_photo_url": "http://example.com/apple.jpg"
+      }
+    ]
+  },
+  "GET api/categories/<int:category_id>/products/": {
+    "description": "serves up a json of all products within a specified category",
+    "example response": [
+      {
+        "product_id": 1,
+        "product": "Apple",
+        "description": "Fresh red apples",
+        "brand": "FreshFarms",
+        "size": "1kg",
+        "product_photo_url": "http://example.com/apple.jpg"
+      }
+    ]
+  },
+
+  "GET /api/products": {
+    "description": "serves up a json of all products",
+    "example response": [
+      {
+        "price_id": 5,
+        "price": "10.00",
+        "store_id": 3,
+        "store_name": "WHSmith",
+        "latitude": "53.7976879000",
+        "longitude": "-1.5439129000",
+        "distance": 259.8866234
+      }
+    ]
+  },
+  "POST /api/products": {
+    "description": "posts a new product",
+    "example inout": {
+      "product": "Apple",
+      "description": "Fresh red apples",
+      "brand": "FreshFarms",
+      "size": "1kg",
+      "product_photo_url": "http://example.com/apple.jpg",
+      "category": 1
+    }
+  },
+  "DELETE /api/products/:product_id": {
+    "description": "deletes a product"
+  },
+  "GET /api/stores": {
+    "description": "serves up a json of all stores",
+    "example response": [
+      {
+        "store_id": 1,
+        "store_name": "Vue Cinema Leeds - The Light",
+        "lat": "53.7997617000",
+        "lon": "-1.5457255000",
+        "monday": "Monday: 10:00 AM – 3:00 AM",
+        "tuesday": "Tuesday: 10:00 AM – 3:00 AM",
+        "wednesday": "Wednesday: 10:00 AM – 3:00 AM",
+        "thursday": "Thursday: 10:00 AM – 3:00 AM",
+        "friday": "Friday: 10:00 AM – 3:00 AM",
+        "saturday": "Saturday: 10:00 AM – 3:00 AM",
+        "sunday": "Sunday: 10:00 AM – 3:00 AM"
+      }
+    ]
+  },
+  "POST /api/stores": {
+    "description": "posts a new store",
+    "example input": {
+      "store_id": 1,
+      "store_name": "Vue Cinema Leeds - The Light",
+      "lat": "53.7997617000",
+      "lon": "-1.5457255000",
+      "monday": "Monday: 10:00 AM – 3:00 AM",
+      "tuesday": "Tuesday: 10:00 AM – 3:00 AM",
+      "wednesday": "Wednesday: 10:00 AM – 3:00 AM",
+      "thursday": "Thursday: 10:00 AM – 3:00 AM",
+      "friday": "Friday: 10:00 AM – 3:00 AM",
+      "saturday": "Saturday: 10:00 AM – 3:00 AM",
+      "sunday": "Sunday: 10:00 AM – 3:00 AM"
+    }
+  },
+  "DELETE /api/stores/:store_id": {
+    "description": "deletes a store"
+  },
+  "GET /api/prices": {
+    "description": "serves up a json of all price reports",
+    "example response": [
+      {
+        "price_id": 1,
+        "price": "10.00",
+        "created_at": "2024-07-05T09:38:11.698198Z",
+        "store": 2,
+        "product": 1
+      }
+    ]
+  },
+  "POST /api/prices": {
+    "description": "posts a new price report",
+    "example input": {
+      "price": "10.00",
+      "created_at": "2024-07-05T09:38:11.698198Z",
+      "store": 2,
+      "product": 1
+    }
+  },
+  "DELETE /api/price/:price_id": {
+    "description": "deletes a price report"
+  },
+  "GET /api/favourites": {
+    "description": "serves up a json of all favourites",
+    "example response": [
+      {
+        "fav_product_id": 1,
+        "user": 1,
+        "product": 1
+      }
+    ]
+  },
+  "POST /api/favourites": {
+    "description": "posts a new favourite product for a user",
+    "example input": {
+      "user": 1,
+      "product": 1
+    }
+  },
+  "DELETE /api/favourites/:favourite_id": {
+    "description": "removes a product from favourites"
+  },
+  "GET /api/users": {
+    "description": "serves up a json of all users",
+    "example response": [
+      {
+        "user_id": 1,
+        "username": "john_doe",
+        "password": "password123",
+        "email": "john@example.com"
+      }
+    ]
+  },
+  "POST /api/users": {
+    "description": "posts a new user",
+    "example input": {
+      "username": "john_doe",
+      "password": "password123",
+      "email": "john@example.com"
+    }
+  },
+  "PATCH /api/users": {
+    "description": "patches a new user",
+    "example input": {
+      "username": "john_doe",
+      "password": "password123",
+      "email": "john@example.com"
+    }
+  },
+  "DELETE /api/users/:users_id": {
+    "description": "removes a user"
+  },
+  "GET /api/categories": {
+    "description": "serves up a json of all categories",
+    "example response": [
+      {
+        "category_id": 1,
+        "category_name": "Fruits"
+      }
+    ]
+  },
+  "POST /api/categories": {
+    "description": "posts a newcategor",
+    "example input": {
+      "category_name": "Fruits"
+    }
+  },
+  "DELETE /api/categories/:categories_id": {
+    "description": "removes a category"
+  }
+}

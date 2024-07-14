@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Best at Flooring",
+    "opening_hours": [
+      "Monday: 9:30 AM – 6:00 PM",
+      "Tuesday: 9:30 AM – 6:00 PM",
+      "Wednesday: 9:30 AM – 6:00 PM",
+      "Thursday: 9:30 AM – 6:00 PM",
+      "Friday: 9:30 AM – 6:00 PM",
+      "Saturday: 9:30 AM – 5:30 PM",
+      "Sunday: Closed"
+    ],
+    "lat": 53.80585670000001,
+    "lng": -1.5301279
+  },
+  {
+    "name": "Costa Coffee",
+    "opening_hours": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 7:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 9:00 AM – 6:00 PM",
+      "Sunday: Closed"
+    ],
+    "lat": 53.80777,
+    "lng": -1.52144
+  },
+  {
+    "name": "CM Performance - Garage Services And Remapping",
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:30 AM – 12:30 PM",
+      "Sunday: Closed"
+    ],
+    "lat": 53.80432080000001,
+    "lng": -1.5296081
+  },
+  {
+    "name": "Eurocell Leeds Collect",
+    "opening_hours": [
+      "Monday: 7:30 AM – 4:30 PM",
+      "Tuesday: 7:30 AM – 4:30 PM",
+      "Wednesday: 7:30 AM – 4:30 PM",
+      "Thursday: 7:30 AM – 4:30 PM",
+      "Friday: 7:30 AM – 4:30 PM",
+      "Saturday: 8:00 AM – 12:00 PM",
+      "Sunday: Closed"
+    ],
+    "lat": 53.8099302,
+    "lng": -1.5278954
+  },
+  {
+    "name": "Just Images",
+    "opening_hours": [
+      "Monday: 10:30 AM – 4:00 PM",
+      "Tuesday: 10:00 AM – 4:30 PM",
+      "Wednesday: 10:00 AM – 4:30 PM",
+      "Thursday: 10:00 AM – 5:00 PM",
+      "Friday: 10:30 AM – 2:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.80493899999999,
+    "lng": -1.531182
+  },
+  {
+    "name": "My Packaging",
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:20 PM",
+      "Tuesday: 9:00 AM – 5:20 PM",
+      "Wednesday: 9:00 AM – 5:20 PM",
+      "Thursday: 9:00 AM – 5:20 PM",
+      "Friday: 9:00 AM – 5:20 PM",
+      "Saturday: 9:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "lat": 53.809628,
+    "lng": -1.5286663
+  },
+  {
+    "name": "Phoenix Uniform Company",
+    "opening_hours": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.8081892,
+    "lng": -1.5313792
+  },
+  {
+    "name": "Supa Saver",
+    "opening_hours": [
+      "Monday: 8:00 AM – 8:00 PM",
+      "Tuesday: 8:00 AM – 8:00 PM",
+      "Wednesday: 8:00 AM – 8:00 PM",
+      "Thursday: 8:00 AM – 8:00 PM",
+      "Friday: 8:00 AM – 8:00 PM",
+      "Saturday: 8:00 AM – 8:00 PM",
+      "Sunday: 9:30 AM – 8:00 PM"
+    ],
+    "lat": 53.8034303,
+    "lng": -1.5294641
+  },
+  {
+    "name": "Eleven Motorhomes",
+    "opening_hours": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 3:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "lat": 53.8052739,
+    "lng": -1.5319946
+  },
+  {
+    "name": "Marks and Spencer",
+    "opening_hours": [
+      "Monday: 7:00 AM – 8:00 PM",
+      "Tuesday: 7:00 AM – 8:00 PM",
+      "Wednesday: 7:00 AM – 8:00 PM",
+      "Thursday: 7:00 AM – 8:00 PM",
+      "Friday: 7:00 AM – 8:00 PM",
+      "Saturday: 8:00 AM – 8:00 PM",
+      "Sunday: 8:00 AM – 8:00 PM"
+    ],
+    "lat": 53.8072274,
+    "lng": -1.5191972
+  },
+  {
+    "name": "Toor Carpets & Furnishing",
+    "opening_hours": [
+      "Monday: 9:00 AM – 6:30 PM",
+      "Tuesday: 9:00 AM – 6:30 PM",
+      "Wednesday: 9:00 AM – 6:30 PM",
+      "Thursday: 9:00 AM – 6:30 PM",
+      "Friday: 9:00 AM – 6:30 PM",
+      "Saturday: 9:00 AM – 6:30 PM",
+      "Sunday: Closed"
+    ],
+    "lat": 53.80780679999999,
+    "lng": -1.5285819
+  },
+  {
+    "name": "Heron Foods",
+    "opening_hours": [
+      "Monday: 8:00 AM – 8:00 PM",
+      "Tuesday: 8:00 AM – 8:00 PM",
+      "Wednesday: 8:00 AM – 8:00 PM",
+      "Thursday: 8:00 AM – 8:00 PM",
+      "Friday: 8:00 AM – 8:00 PM",
+      "Saturday: 8:00 AM – 8:00 PM",
+      "Sunday: 9:00 AM – 5:00 PM"
+    ],
+    "lat": 53.8024619,
+    "lng": -1.5246652
+  }
+]
